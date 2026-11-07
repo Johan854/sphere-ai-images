@@ -7,6 +7,7 @@ Images de personnages pour les sphères vocales ESPHome (Spotpear / Xiaozhi Ball
 | Personnage | Aperçu |
 |---|---|
 | **MaxDresseur** : Max, soigneur au Parc des Géants, et Pico, son bébé tricératops (personnages originaux) | ![Max](images/MaxDresseur/apercu.png) |
+| **Gaspard** : Sire Gaspard, chevalier des devoirs, armé de son crayon-épée (personnage original) | ![Gaspard](images/Gaspard/apercu.png) |
 
 ## Structure
 
@@ -30,4 +31,4 @@ Les URL des images utilisent `https://github.com/${image_repo}/raw/main/images/$
 
 ## Ajouter un personnage
 
-Créer `images/<NomDuPersonnage>/240x240/` avec les 8 PNG ci-dessus, puis changer `imagemodel`. Les sources vectorielles de Max sont dans `sources/MaxDresseur/` (`generer.py` régénère les SVG).
+Créer `images/<NomDuPersonnage>/240x240/` avec les 8 PNG ci-dessus, puis changer `imagemodel`. Les sources vectorielles sont dans `sources/<Personnage>/` (`generer.py` régénère les SVG).
