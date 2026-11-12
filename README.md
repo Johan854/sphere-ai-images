@@ -9,6 +9,25 @@ Images de personnages pour les sphères vocales ESPHome (Spotpear / Xiaozhi Ball
 | **MaxDresseur** : Max, soigneur au Parc des Géants, et Pico, son bébé tricératops (personnages originaux) | ![Max](images/MaxDresseur/apercu.png) |
 | **Gaspard** : Sire Gaspard, chevalier des devoirs, armé de son crayon-épée (personnage original) | ![Gaspard](images/Gaspard/apercu.png) |
 
+## Personnages des pages (sphères tactiles)
+
+Illustrations des pages de la sphère tactile (une par page), personnages originaux. Contrairement aux personnages d'état, elles ont un fond plein de la couleur de leur page.
+
+| Fichier | Personnage | Page |
+|---|---|---|
+| `brico.png` | Brico, robot en briques | Histoire Lego |
+| `nova.png` | Capitaine Nova et son droïde | Histoire Star Wars |
+| `rex.png` | Rex le dresseur et son bébé tricératops | Histoire Dinosaures |
+| `lila.png` | Lila l'exploratrice et son perroquet | Histoire Aventure |
+| `pixel.png` | Pixel, mineur en blocs | Histoire Minecraft |
+| `filou.png` | Filou, chat roux farceur | Histoire Chats farceurs |
+| `calculo.png` | Calculo, hibou à lunettes | Défi maths |
+| `tic.png` | Tic, le réveil | Heure |
+
+![Pages](images/Pages/apercu.png)
+
+URL : `https://github.com/Johan854/sphere-ai-images/raw/main/images/Pages/240x240/<fichier>.png`. Sources SVG dans `sources/Pages/` (`generer.py` régénère les SVG).
+
 ## Structure
 
 ```
