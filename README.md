@@ -17,7 +17,7 @@ Illustrations des pages de la sphère tactile (une par page), personnages origin
 |---|---|---|
 | `brico.png` | Brico, robot en briques | Histoire Lego |
 | `nova.png` | Capitaine Nova et son droïde | Histoire Star Wars |
-| `rex.png` | Rex le dresseur et son bébé tricératops | Histoire Dinosaures |
+| `../../MaxDresseur/240x240/idle.png` | Max le dresseur et Pico (personnage existant) | Histoire Dinosaures |
 | `lila.png` | Lila l'exploratrice et son perroquet | Histoire Aventure |
 | `pixel.png` | Pixel, mineur en blocs | Histoire Minecraft |
 | `filou.png` | Filou, chat roux farceur | Histoire Chats farceurs |

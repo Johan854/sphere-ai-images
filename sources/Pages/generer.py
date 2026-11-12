@@ -33,28 +33,6 @@ P['nova']=wrap('#0B0B1E','''
 <g><circle cx="196" cy="88" r="20" fill="#D9DEE5" stroke="#8A96A3" stroke-width="3"/><circle cx="196" cy="88" r="8" fill="#2A6FDB"/><circle cx="198" cy="86" r="3" fill="#fff"/><line x1="196" y1="68" x2="196" y2="56" stroke="#8A96A3" stroke-width="3"/><circle cx="196" cy="54" r="4" fill="#FFE81F"/>
 <path d="M186 112 l20 0" stroke="#FFE81F" stroke-width="2" stroke-dasharray="3 3"/></g>
 ''',stars)
-# 3 Rex le dresseur
-P['rex']=wrap('#1E5631','''
-<ellipse cx="120" cy="250" rx="90" ry="20" fill="#174426"/>
-<path d="M62 245 q0-58 48-60 l20 0 q48 2 48 60 z" fill="#C2A36B"/>
-<path d="M112 186 l8 18 l8 -18" fill="#E9DFC8"/>
-<path d="M120 204 l0 18" stroke="#8B5A2B" stroke-width="3"/><rect x="113" y="220" width="14" height="9" rx="3" fill="#D0D4D9"/>
-<ellipse cx="120" cy="128" rx="36" ry="40" fill="#F2C9A0"/>
-'''+eyes(106,134,128)+'''
-<path d="M108 148 q12 10 24 0" stroke="#7A3B22" stroke-width="3" fill="none" stroke-linecap="round"/>
-<ellipse cx="120" cy="96" rx="64" ry="12" fill="#8B6A3E"/>
-<path d="M84 96 q2 -42 36 -42 q34 0 36 42 z" fill="#A9844F"/>
-<rect x="84" y="84" width="72" height="9" fill="#5C3F1E"/>
-<g transform="translate(128 146) scale(0.85)">
-<ellipse cx="38" cy="58" rx="34" ry="24" fill="#7BC043"/>
-<path d="M60 52 q22 -6 24 -26" stroke="#7BC043" stroke-width="10" fill="none" stroke-linecap="round"/>
-<path d="M14 40 q-6 -34 24 -38 q24 6 10 34 z" fill="#F4A259"/>
-<ellipse cx="22" cy="54" rx="22" ry="17" fill="#8ED158"/>
-<path d="M12 42 l-6 -18 l12 14 z" fill="#FFF3D6"/><path d="M26 40 l2 -20 l6 18 z" fill="#FFF3D6"/><path d="M8 58 l-12 -2 l10 -6 z" fill="#FFF3D6"/>
-<circle cx="18" cy="52" r="4" fill="#222"/><circle cx="19" cy="51" r="1.4" fill="#fff"/>
-<path d="M6 62 q6 4 12 0" stroke="#3B6B1F" stroke-width="2" fill="none"/>
-</g>
-''')
 # 4 Lila l'exploratrice
 P['lila']=wrap('#7A3E00','''
 <path d="M58 245 q0-56 52-58 l20 0 q52 2 52 58 z" fill="#2E8B57"/>
